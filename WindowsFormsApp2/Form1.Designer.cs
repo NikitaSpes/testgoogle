@@ -44,11 +44,11 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(37, 272);
+            this.button1.Location = new System.Drawing.Point(37, 483);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(119, 32);
             this.button1.TabIndex = 3;
-            this.button1.Text = "Выполнить ";
+            this.button1.Text = "Кнопка";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -82,7 +82,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(37, 310);
+            this.button4.Location = new System.Drawing.Point(37, 272);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(119, 32);
             this.button4.TabIndex = 12;
